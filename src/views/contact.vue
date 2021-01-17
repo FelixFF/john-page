@@ -1,10 +1,10 @@
 <template>
-  <div class="about">
+  <div class="contact">
     <h1>This is an about page</h1>
   </div>
 </template>
 <style scoped lang="scss">
-.about {
+.contact {
   background-color: $oxford-blue;
 }
 </style>
